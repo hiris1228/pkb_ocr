@@ -15,3 +15,5 @@ pyvis
 async-timeout
 boto3
 pandas
+matplotlib
+networkx
