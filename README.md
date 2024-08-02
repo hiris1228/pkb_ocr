@@ -22,7 +22,9 @@ pip install 'awswrangler[gremlin, opencypher, sparql]'
 
 ### 
 #Temporary running
-python3 -m streamlit run app.py
+### 
+python3 -m streamlit run st_pkb.py
 ### 
 #Permanent running
-nohup python3 -m streamlit run app.py
+### 
+nohup python3 -m streamlit run st_pkb.py
