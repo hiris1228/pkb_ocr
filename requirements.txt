@@ -17,3 +17,4 @@ boto3
 pandas
 matplotlib
 networkx
+taxon_parser
